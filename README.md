@@ -21,30 +21,28 @@ Oh, and for instance, [THIS](https://www.youtube.com/watch?v=XGC31lmdS6s) was th
 ## Installation
 
 1. **Clone the repository**
-   Run the following command in your terminal to clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/RefreshedAscii.git
-     ```
-    Replace `your-username` with your GitHub username.
+Run the following command in your terminal to clone the repository:
+```bash
+git clone https://github.com/your-username/RefreshedAscii.git
+```
 
 2. **Navigate to the project folder**
-
 ```bash
 cd RefreshedAscii
-  ```
-3. ** Build the project**
-    Run the command to build the solution:
+```
 
+3. **Build the project**
+Run the command to build the solution:
 ```bash
 dotnet build
-  ```
+```
 
 4. **Run the application**
-    To start the application, execute the command:
+To start the application, execute the command:
 ```bash
 dotnet run
-  ```
+```
+
 ## Usage
 Once the application starts, a menu will be displayed with the following options:
 <br/>
