@@ -52,6 +52,8 @@ Once the application starts, a menu will be displayed with the following options
 <br/>
 Select option 1 to choose a JPEG file to convert to ASCII art.
 
+'Copy as path' your file and paste it to the console when required.
+
 After conversion, the ASCII art will be saved as a JPEG file in your Documents folder.
 
 Select option 2 to exit the application.
