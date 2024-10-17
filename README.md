@@ -26,30 +26,32 @@ Oh, and for instance, [THIS](https://www.youtube.com/watch?v=XGC31lmdS6s) was th
    ```bash
    git clone https://github.com/your-username/RefreshedAscii.git
      ```
-Replace `your-username` with your GitHub username.
+    Replace `your-username` with your GitHub username.
 
 2. **Navigate to the project folder**
 
 ```bash
 cd RefreshedAscii
   ```
-3.** Build the project**
-Run the command to build the solution:
+3. ** Build the project**
+    Run the command to build the solution:
 
 ```bash
 dotnet build
   ```
 
 4. **Run the application**
-To start the application, execute the command:
+    To start the application, execute the command:
 ```bash
 dotnet run
   ```
 ## Usage
 Once the application starts, a menu will be displayed with the following options:
-
+<br/>
 [1] Convert an image to ASCII art
+<br/>
 [2] Exit
+<br/>
 Select option 1 to choose a JPEG file to convert to ASCII art.
 
 After conversion, the ASCII art will be saved as a JPEG file in your Documents folder.
